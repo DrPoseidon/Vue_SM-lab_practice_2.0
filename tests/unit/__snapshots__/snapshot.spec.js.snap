@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="list"
+  >
+    <div
+      class="date_div"
+    >
+      <div
+        class="cur_date"
+      >
+        <p
+          class="d"
+        >
+          17
+        </p>
+         
+        <div
+          class="in_cur_date"
+        >
+          <p
+            class="m"
+          >
+            Июля
+          </p>
+           
+          <p
+            class="y"
+          >
+            2020
+          </p>
+        </div>
+      </div>
+       
+      <p
+        class="weekday"
+      >
+        ПТ
+      </p>
+    </div>
+     
+  </div>
+   
+  <a
+    class="add_btn"
+  >
+    <img
+      class="add_btn_img"
+      src="../assets/add_plus.png"
+    />
+  </a>
+   
+  <!---->
+</div>
+`;
